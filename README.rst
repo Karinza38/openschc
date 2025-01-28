@@ -1,4 +1,4 @@
-What is OpenSCHC ?
+ What is OpenSCHC ?
 ==================
 
 OpenSCHC
